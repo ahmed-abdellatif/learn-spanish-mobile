@@ -1,0 +1,7 @@
+{
+  "name": "learnSpan",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
